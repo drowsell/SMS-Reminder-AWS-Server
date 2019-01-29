@@ -1,5 +1,5 @@
 # SMS-Reminder-Server
-A program meant to run on AWS that will send a text reminder at a specific time.
+A program meant to run on AWS that will send an SMS text reminder at a specific time.
 
 # To-Do List
 Make python that sends email to @msg.telus.com 
